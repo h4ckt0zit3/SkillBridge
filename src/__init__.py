@@ -1,0 +1,1 @@
+# SkillBridge — Attendance Management System

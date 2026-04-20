@@ -1,0 +1,5 @@
+SkillBridge — Attendance Management System
+==========================================
+Project Author: SkillBridge Team
+Email: contact@skillbridge.com
+Repository: https://github.com/skillbridge/skillbridge-api
