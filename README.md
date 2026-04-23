@@ -2,6 +2,7 @@
 
 > A production-ready REST API for managing attendance across training programmes, built with FastAPI, PostgreSQL, and JWT authentication.
 
+**Live API:** `https://YOUR-DEPLOY-URL.onrender.com`
 ---
 
 ## Table of Contents
