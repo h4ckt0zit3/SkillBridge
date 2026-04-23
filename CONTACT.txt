@@ -1,5 +1,7 @@
 SkillBridge — Attendance Management System
 ==========================================
-Project Author: SkillBridge Team
-Email: contact@skillbridge.com
-Repository: https://github.com/skillbridge/skillbridge-api
+Project Author: Parikshit Tyagi
+Email: tyagiparikshit02@gmail.com
+Phone no:- 9258782545
+github:- https://github.com/h4ckt0zit3
+Repository: https://github.com/h4ckt0zit3/SkillBridge/
